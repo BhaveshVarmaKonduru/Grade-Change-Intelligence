@@ -1,0 +1,11 @@
+grade_code,product,gsm_target,moisture_target,ash_target,caliper_target,machine_speed,stock_flow,filler_flow,steam_pressure
+CP080,Copy Paper 80 GSM,80,5.0,18,95,1000,480,95,4.2
+CP100,Copy Paper 100 GSM,100,5.2,20,110,950,570,100,4.6
+CP120,Copy Paper 120 GSM,120,5.5,22,128,900,650,105,5.0
+OP100,Offset Paper 100 GSM,100,4.8,16,112,960,560,82,4.1
+OP120,Offset Paper 120 GSM,120,5.0,17,130,910,640,84,4.5
+KR120,Kraft Paper 120 GSM,120,7.2,8,145,760,720,25,6.0
+KR150,Kraft Paper 150 GSM,150,7.5,7,170,700,820,22,6.5
+NB045,Newsprint 45 GSM,45,8.5,12,55,1200,260,45,3.5
+CB250,Coated Board 250 GSM,250,6.0,30,300,520,1350,180,7.2
+AR170,Art Paper 170 GSM,170,5.0,28,190,650,940,160,6.0
